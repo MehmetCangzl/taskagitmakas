@@ -1,0 +1,8 @@
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\KitleEndexs\obj\Debug\KitleEndexs.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\KitleEndexs\obj\Debug\KitleEndexs.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\KitleEndexs\obj\Debug\KitleEndexs.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\KitleEndexs\bin\Debug\KitleEndexs.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\KitleEndexs\bin\Debug\KitleEndexs.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\KitleEndexs\bin\Debug\KitleEndexs.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\KitleEndexs\obj\Debug\KitleEndexs.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\KitleEndexs\obj\Debug\KitleEndexs.pdb

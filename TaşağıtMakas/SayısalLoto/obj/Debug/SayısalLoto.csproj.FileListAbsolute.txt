@@ -1,0 +1,8 @@
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\SayısalLoto\bin\Debug\SayısalLoto.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\SayısalLoto\bin\Debug\SayısalLoto.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\SayısalLoto\bin\Debug\SayısalLoto.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\SayısalLoto\obj\Debug\SayısalLoto.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\SayısalLoto\obj\Debug\SayısalLoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\SayısalLoto\obj\Debug\SayısalLoto.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\SayısalLoto\obj\Debug\SayısalLoto.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\SayısalLoto\obj\Debug\SayısalLoto.pdb

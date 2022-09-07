@@ -1,0 +1,8 @@
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\GirilenSayınınKaresi\bin\Debug\GirilenSayınınKaresi.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\GirilenSayınınKaresi\bin\Debug\GirilenSayınınKaresi.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\GirilenSayınınKaresi\bin\Debug\GirilenSayınınKaresi.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\GirilenSayınınKaresi\obj\Debug\GirilenSayınınKaresi.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\GirilenSayınınKaresi\obj\Debug\GirilenSayınınKaresi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\GirilenSayınınKaresi\obj\Debug\GirilenSayınınKaresi.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\GirilenSayınınKaresi\obj\Debug\GirilenSayınınKaresi.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\GirilenSayınınKaresi\obj\Debug\GirilenSayınınKaresi.pdb

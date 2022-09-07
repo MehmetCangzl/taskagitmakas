@@ -1,0 +1,8 @@
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\ÇarpımTablosu\obj\Debug\ÇarpımTablosu.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\ÇarpımTablosu\obj\Debug\ÇarpımTablosu.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\ÇarpımTablosu\obj\Debug\ÇarpımTablosu.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\ÇarpımTablosu\bin\Debug\ÇarpımTablosu.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\ÇarpımTablosu\bin\Debug\ÇarpımTablosu.exe
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\ÇarpımTablosu\bin\Debug\ÇarpımTablosu.pdb
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\ÇarpımTablosu\obj\Debug\ÇarpımTablosu.exe
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\ÇarpımTablosu\obj\Debug\ÇarpımTablosu.pdb

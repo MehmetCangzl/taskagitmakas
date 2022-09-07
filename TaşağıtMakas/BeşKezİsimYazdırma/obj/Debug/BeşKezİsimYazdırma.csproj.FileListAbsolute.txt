@@ -1,0 +1,8 @@
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\BeşKezİsimYazdırma\bin\Debug\BeşKezİsimYazdırma.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\BeşKezİsimYazdırma\bin\Debug\BeşKezİsimYazdırma.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\BeşKezİsimYazdırma\bin\Debug\BeşKezİsimYazdırma.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\BeşKezİsimYazdırma\obj\Debug\BeşKezİsimYazdırma.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\BeşKezİsimYazdırma\obj\Debug\BeşKezİsimYazdırma.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\BeşKezİsimYazdırma\obj\Debug\BeşKezİsimYazdırma.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\BeşKezİsimYazdırma\obj\Debug\BeşKezİsimYazdırma.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\BeşKezİsimYazdırma\obj\Debug\BeşKezİsimYazdırma.pdb

@@ -1,0 +1,8 @@
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\IsımYazdırma\bin\Debug\IsımYazdırma.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\IsımYazdırma\bin\Debug\IsımYazdırma.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\IsımYazdırma\bin\Debug\IsımYazdırma.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\IsımYazdırma\obj\Debug\IsımYazdırma.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\IsımYazdırma\obj\Debug\IsımYazdırma.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\IsımYazdırma\obj\Debug\IsımYazdırma.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\IsımYazdırma\obj\Debug\IsımYazdırma.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\IsımYazdırma\obj\Debug\IsımYazdırma.pdb

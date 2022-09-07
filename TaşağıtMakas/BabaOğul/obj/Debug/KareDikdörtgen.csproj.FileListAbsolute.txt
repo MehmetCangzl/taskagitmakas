@@ -1,0 +1,16 @@
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\BabaOğul\bin\Debug\BabaOğul.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\BabaOğul\bin\Debug\BabaOğul.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\BabaOğul\bin\Debug\BabaOğul.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\BabaOğul\obj\Debug\KareDikdörtgen.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\BabaOğul\obj\Debug\KareDikdörtgen.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\BabaOğul\obj\Debug\KareDikdörtgen.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\BabaOğul\obj\Debug\BabaOğul.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\BabaOğul\obj\Debug\BabaOğul.pdb
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\BabaOğul\bin\Debug\BabaOğul.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\BabaOğul\bin\Debug\BabaOğul.exe
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\BabaOğul\bin\Debug\BabaOğul.pdb
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\BabaOğul\obj\Debug\KareDikdörtgen.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\BabaOğul\obj\Debug\KareDikdörtgen.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\BabaOğul\obj\Debug\KareDikdörtgen.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\BabaOğul\obj\Debug\BabaOğul.exe
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\BabaOğul\obj\Debug\BabaOğul.pdb

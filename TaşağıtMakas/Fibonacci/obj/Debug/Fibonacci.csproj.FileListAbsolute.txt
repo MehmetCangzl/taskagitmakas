@@ -1,0 +1,8 @@
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Fibonacci\obj\Debug\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Fibonacci\obj\Debug\Fibonacci.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Fibonacci\obj\Debug\Fibonacci.pdb

@@ -1,0 +1,8 @@
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\asallıkKOntrol\bin\Debug\asallıkKOntrol.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\asallıkKOntrol\bin\Debug\asallıkKOntrol.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\asallıkKOntrol\bin\Debug\asallıkKOntrol.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\asallıkKOntrol\obj\Debug\asallıkKOntrol.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\asallıkKOntrol\obj\Debug\asallıkKOntrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\asallıkKOntrol\obj\Debug\asallıkKOntrol.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\asallıkKOntrol\obj\Debug\asallıkKOntrol.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\asallıkKOntrol\obj\Debug\asallıkKOntrol.pdb

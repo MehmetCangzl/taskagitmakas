@@ -1,0 +1,24 @@
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\TaşağıtMakas\bin\Debug\TaşağıtMakas.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\TaşağıtMakas\bin\Debug\TaşağıtMakas.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\TaşağıtMakas\bin\Debug\TaşağıtMakas.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\TaşağıtMakas\obj\Debug\TaşağıtMakas.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\TaşağıtMakas\obj\Debug\TaşağıtMakas.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\TaşağıtMakas\obj\Debug\TaşağıtMakas.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\TaşağıtMakas\obj\Debug\TaşağıtMakas.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\TaşağıtMakas\obj\Debug\TaşağıtMakas.pdb
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\TaşağıtMakas\bin\Debug\TaşağıtMakas.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\TaşağıtMakas\bin\Debug\TaşağıtMakas.exe
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\TaşağıtMakas\bin\Debug\TaşağıtMakas.pdb
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\TaşağıtMakas\obj\Debug\TaşağıtMakas.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\TaşağıtMakas\obj\Debug\TaşağıtMakas.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\TaşağıtMakas\obj\Debug\TaşağıtMakas.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\TaşağıtMakas\obj\Debug\TaşağıtMakas.exe
+C:\Users\mehme\OneDrive\Masaüstü\c# BAŞLANGIÇ\TaşağıtMakas\TaşağıtMakas\obj\Debug\TaşağıtMakas.pdb
+C:\Users\mehme\OneDrive\Masaüstü\C#\projeler\c# BAŞLANGIÇ\TaşağıtMakas\TaşağıtMakas\bin\Debug\TaşağıtMakas.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\C#\projeler\c# BAŞLANGIÇ\TaşağıtMakas\TaşağıtMakas\bin\Debug\TaşağıtMakas.exe
+C:\Users\mehme\OneDrive\Masaüstü\C#\projeler\c# BAŞLANGIÇ\TaşağıtMakas\TaşağıtMakas\bin\Debug\TaşağıtMakas.pdb
+C:\Users\mehme\OneDrive\Masaüstü\C#\projeler\c# BAŞLANGIÇ\TaşağıtMakas\TaşağıtMakas\obj\Debug\TaşağıtMakas.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\C#\projeler\c# BAŞLANGIÇ\TaşağıtMakas\TaşağıtMakas\obj\Debug\TaşağıtMakas.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\C#\projeler\c# BAŞLANGIÇ\TaşağıtMakas\TaşağıtMakas\obj\Debug\TaşağıtMakas.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\C#\projeler\c# BAŞLANGIÇ\TaşağıtMakas\TaşağıtMakas\obj\Debug\TaşağıtMakas.exe
+C:\Users\mehme\OneDrive\Masaüstü\C#\projeler\c# BAŞLANGIÇ\TaşağıtMakas\TaşağıtMakas\obj\Debug\TaşağıtMakas.pdb

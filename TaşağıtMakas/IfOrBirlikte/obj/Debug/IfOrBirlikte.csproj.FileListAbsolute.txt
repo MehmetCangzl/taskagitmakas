@@ -1,0 +1,16 @@
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\IfOrBirlikte\bin\Debug\IfOrBirlikte.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\IfOrBirlikte\bin\Debug\IfOrBirlikte.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\IfOrBirlikte\bin\Debug\IfOrBirlikte.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\IfOrBirlikte\obj\Debug\IfOrBirlikte.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\IfOrBirlikte\obj\Debug\IfOrBirlikte.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\IfOrBirlikte\obj\Debug\IfOrBirlikte.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\IfOrBirlikte\obj\Debug\IfOrBirlikte.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\IfOrBirlikte\obj\Debug\IfOrBirlikte.pdb
+C:\Users\mehme\OneDrive\Masaüstü\C#\projeler\c# BAŞLANGIÇ\TaşağıtMakas\IfOrBirlikte\bin\Debug\IfOrBirlikte.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\C#\projeler\c# BAŞLANGIÇ\TaşağıtMakas\IfOrBirlikte\bin\Debug\IfOrBirlikte.exe
+C:\Users\mehme\OneDrive\Masaüstü\C#\projeler\c# BAŞLANGIÇ\TaşağıtMakas\IfOrBirlikte\bin\Debug\IfOrBirlikte.pdb
+C:\Users\mehme\OneDrive\Masaüstü\C#\projeler\c# BAŞLANGIÇ\TaşağıtMakas\IfOrBirlikte\obj\Debug\IfOrBirlikte.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\C#\projeler\c# BAŞLANGIÇ\TaşağıtMakas\IfOrBirlikte\obj\Debug\IfOrBirlikte.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\C#\projeler\c# BAŞLANGIÇ\TaşağıtMakas\IfOrBirlikte\obj\Debug\IfOrBirlikte.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\C#\projeler\c# BAŞLANGIÇ\TaşağıtMakas\IfOrBirlikte\obj\Debug\IfOrBirlikte.exe
+C:\Users\mehme\OneDrive\Masaüstü\C#\projeler\c# BAŞLANGIÇ\TaşağıtMakas\IfOrBirlikte\obj\Debug\IfOrBirlikte.pdb

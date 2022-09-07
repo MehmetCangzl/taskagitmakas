@@ -1,0 +1,8 @@
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\ŞifreOlşturma\bin\Debug\ŞifreOlşturma.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\ŞifreOlşturma\bin\Debug\ŞifreOlşturma.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\ŞifreOlşturma\bin\Debug\ŞifreOlşturma.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\ŞifreOlşturma\obj\Debug\ŞifreOlşturma.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\ŞifreOlşturma\obj\Debug\ŞifreOlşturma.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\ŞifreOlşturma\obj\Debug\ŞifreOlşturma.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\ŞifreOlşturma\obj\Debug\ŞifreOlşturma.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\ŞifreOlşturma\obj\Debug\ŞifreOlşturma.pdb

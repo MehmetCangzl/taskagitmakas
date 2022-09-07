@@ -1,0 +1,8 @@
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\TahminEtme\bin\Debug\TahminEtme.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\TahminEtme\bin\Debug\TahminEtme.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\TahminEtme\bin\Debug\TahminEtme.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\TahminEtme\obj\Debug\TahminEtme.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\TahminEtme\obj\Debug\TahminEtme.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\TahminEtme\obj\Debug\TahminEtme.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\TahminEtme\obj\Debug\TahminEtme.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\TahminEtme\obj\Debug\TahminEtme.pdb

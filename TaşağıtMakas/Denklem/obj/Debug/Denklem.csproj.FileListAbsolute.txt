@@ -1,0 +1,8 @@
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Denklem\bin\Debug\Denklem.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Denklem\bin\Debug\Denklem.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Denklem\bin\Debug\Denklem.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Denklem\obj\Debug\Denklem.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Denklem\obj\Debug\Denklem.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Denklem\obj\Debug\Denklem.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Denklem\obj\Debug\Denklem.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Denklem\obj\Debug\Denklem.pdb

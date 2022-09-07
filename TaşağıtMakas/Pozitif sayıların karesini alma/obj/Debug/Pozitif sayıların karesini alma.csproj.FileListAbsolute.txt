@@ -1,0 +1,8 @@
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Pozitif sayıların karesini alma\bin\Debug\Pozitif sayıların karesini alma.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Pozitif sayıların karesini alma\bin\Debug\Pozitif sayıların karesini alma.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Pozitif sayıların karesini alma\bin\Debug\Pozitif sayıların karesini alma.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Pozitif sayıların karesini alma\obj\Debug\Pozitif sayıların karesini alma.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Pozitif sayıların karesini alma\obj\Debug\Pozitif sayıların karesini alma.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Pozitif sayıların karesini alma\obj\Debug\Pozitif sayıların karesini alma.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Pozitif sayıların karesini alma\obj\Debug\Pozitif sayıların karesini alma.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\Pozitif sayıların karesini alma\obj\Debug\Pozitif sayıların karesini alma.pdb

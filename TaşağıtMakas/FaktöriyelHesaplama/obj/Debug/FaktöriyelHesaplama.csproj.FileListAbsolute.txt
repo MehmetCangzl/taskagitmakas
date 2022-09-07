@@ -1,0 +1,8 @@
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\FaktöriyelHesaplama\obj\Debug\FaktöriyelHesaplama.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\FaktöriyelHesaplama\obj\Debug\FaktöriyelHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\FaktöriyelHesaplama\obj\Debug\FaktöriyelHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\FaktöriyelHesaplama\bin\Debug\FaktöriyelHesaplama.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\FaktöriyelHesaplama\bin\Debug\FaktöriyelHesaplama.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\FaktöriyelHesaplama\bin\Debug\FaktöriyelHesaplama.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\FaktöriyelHesaplama\obj\Debug\FaktöriyelHesaplama.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\FaktöriyelHesaplama\obj\Debug\FaktöriyelHesaplama.pdb

@@ -1,0 +1,8 @@
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\SayıBasamkları\bin\Debug\SayıBasamkları.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\SayıBasamkları\bin\Debug\SayıBasamkları.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\SayıBasamkları\bin\Debug\SayıBasamkları.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\SayıBasamkları\obj\Debug\SayıBasamkları.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\SayıBasamkları\obj\Debug\SayıBasamkları.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\SayıBasamkları\obj\Debug\SayıBasamkları.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\SayıBasamkları\obj\Debug\SayıBasamkları.exe
+C:\Users\mehme\OneDrive\Masaüstü\TaşağıtMakas\SayıBasamkları\obj\Debug\SayıBasamkları.pdb
